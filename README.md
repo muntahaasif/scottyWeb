@@ -1,1 +1,1 @@
-# scottyWeb
+# scotty-Web
